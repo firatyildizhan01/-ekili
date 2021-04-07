@@ -71,9 +71,10 @@ namespace çekiliş
             }
 
 
-            if (textBox4.Text == label4.Text & textBox3.Text == label3.Text & textBox2.Text == label2.Text &)
+            if (textBox1.Text == label1.Text & textBox3.Text == label3.Text & textBox2.Text == label2.Text & textBox4.Text == label4.Text)
             {
                 textBox4.BackColor = Color.Green;
+                MessageBox.Show("kazandın be bro");
             }
             else
             {
