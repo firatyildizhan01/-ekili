@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "çekiliş", "çekiliş\çekiliş.csproj", "{DD0BC431-BF4C-4F7C-8277-E8CDAF254899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0BC431-BF4C-4F7C-8277-E8CDAF254899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0BC431-BF4C-4F7C-8277-E8CDAF254899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0BC431-BF4C-4F7C-8277-E8CDAF254899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0BC431-BF4C-4F7C-8277-E8CDAF254899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54214E9F-B407-4B28-9BD9-2F42911B3ED6}
+	EndGlobalSection
+EndGlobal
